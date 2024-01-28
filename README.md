@@ -27,6 +27,7 @@
 
   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FDev_Gitau&style=for-the-badge&logo=twitter&logoColor=white&labelColor=blue&color=blue">
 
+  <img alt="Gmail URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fmosesgitau380%40gmail.com&style=for-the-badge&logo=gmail&logoColor=white&label=GMAIL&labelColor=%23c71610&color=%23c71610">
 </div>
 
 ---
