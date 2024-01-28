@@ -1,6 +1,10 @@
 ## Hi there 🖐
 
-###Tech Stack 📚 and Tools 🛠
+<div align="center">
+    <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="600" height="300" />
+</div>
+
+### Tech Stack 📚 and Tools 🛠
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -16,16 +20,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>
+  and much more...
 </div>
 
 ---
-
+### Connect with me on Socials 📱
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/moses-gitau-dev/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 
-  <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FDev_Gitau">
+  <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FDev_Gitau&style=for-the-badge&logo=twitter&logoColor=white&labelColor=blue">
+
 </div>
 
 ---
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gits-hub&theme=dark&background=000000)](https://git.io/streak-stats)
