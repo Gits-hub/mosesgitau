@@ -1,14 +1,9 @@
 ## Hi there 🖐
 
-<div align="center">
-    <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="600" height="300" />
-</div>
-
 ### Tech Stack 📚 and Tools 🛠
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache"  alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
